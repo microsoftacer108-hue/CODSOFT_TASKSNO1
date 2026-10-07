@@ -1,0 +1,3 @@
+**Task 1: Number Guessing Game**
+
+As part of my internship at **CodSoft**, I developed a Number Guessing Game using Java. The program generates a random number between 1 and 100 and allows the user to guess the number within a limited number of attempts. After each guess, the program provides feedback indicating whether the guess is too high, too low, or correct. The project also supports multiple rounds and maintains the player's score and rounds won. This task helped me strengthen my understanding of Java programming, loops, conditional statements, user input, random number generation, and basic game logic.
